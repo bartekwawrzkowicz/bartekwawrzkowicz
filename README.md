@@ -2,7 +2,7 @@
 
 My name is Bartek and I'm a Front End Developer.
 ###
-In my projects i'm using my basic computer / programming skills, like 
+In my projects i'm using my developer skills like 
 ###
 `HTML` `CSS` `SASS` `JavaScript` `ReactJS`.
 ###
