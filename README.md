@@ -2,14 +2,14 @@
 
 My name is Bartek and I'm a Front End Developer.
 ###
-In my projects i'm using my developer skills like 
+In my projects i'm using 
 ###
 `HTML` `CSS` `SASS` `JavaScript` `ReactJS`.
 ###
 `Bootstrap` `Material UI`
 are the external libraries that I'm using in some of them.
 ###
-Lately I'm learning `Redux` `nodeJS` `Typescript` and `C++`.
+Currently I'm studying `Redux` `nodeJS` `Typescript` and `C++`.
 
 
 <!--
