@@ -9,7 +9,7 @@ In my projects i'm using
 `Bootstrap` `Material UI`
 are the external libraries that I'm using in some of them.
 ###
-Currently I'm studying `Redux` `React Native` `nodeJS` `Typescript` and `C++`.
+Currently I'm studying `Redux` `React Native` `nodeJS` and `Typescript`.
 
 
 <!--
