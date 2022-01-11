@@ -9,7 +9,7 @@ In my projects i'm using
 `Bootstrap` `Material UI`
 are the external libraries that I'm using in some of them.
 ###
-Currently I'm studying `Redux` `React Native` and `Typescript`.
+Currently I'm studying `BrightScript` @BetterSoftwareGroup for developing channels on `Roku` devices .
 
 
 <!--
